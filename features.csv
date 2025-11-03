@@ -1,0 +1,83 @@
+url,title,word_count,sentence_count,flesch_reading_ease,top_keywords,is_thin
+https://www.cm-alliance.com/cybersecurity-blog,Cyber Security Blog,326,6,-6.816181426332264,cyber|cybersecurity|training|management|security,True
+https://www.varonis.com/blog/cybersecurity-tips,Top 10 Cybersecurity Awareness Tips: How to Stay Safe and Proactive,1700,92,41.465,data|access|security|app|mfa,False
+https://www.cisecurity.org/insights/blog/11-cyber-defense-tips-to-stay-secure-at-work-and-home,11 Cyber Defense Tips to Stay Secure at Work and Home,1058,62,53.26291793973047,authentication|don|cyber|protect|use,False
+https://www.cisa.gov/topics/cybersecurity-best-practices,Cybersecurity Best Practices | Cybersecurity and Infrastructure Security Agency CISA,826,27,-2.538002436053546,cybersecurity|cyber|practices|organizations|best,False
+https://nordlayer.com/learn/network-security/basics/,Network Security 101: Understanding the Basics,2188,181,25.76941515060452,network|security|monitoring|devices|access,False
+https://www.fortinet.com/resources/cyberglossary/what-is-network-security,What Is Network Security? Definition and Types | Fortinet,4970,223,12.261918219867797,security|network|cloud|access|threats,False
+https://www.cisco.com/site/us/en/learn/topics/security/what-is-network-security.html,What Is Network Security? - Cisco,946,56,29.252809196617363,security|network|access|secure|devices,False
+https://www.trendmicro.com/en_us/what-is/network-security/network-security-basics.html,What Are Network Security Basics? | Trend Micro (US),2011,89,29.1469731771235,security|network|data|cloud|encryption,False
+https://digitdefence.com/blog/fundamentals-of-network-security-in-computer-networks,Fundamentals of Network Security in Computer Networks - Digitdefence,21386,1301,18.74756745264358,sony|security|network|data|encryption,False
+https://guardiandigital.com/resources/blog/guide-on-phishing,Phishing Threats Explained: Detection and Prevention Strategies.,2009,140,55.58231594784354,phishing|attacks|email|protection|security,False
+https://cofense.com/blog,Phishing Prevention & Email Security Blog | Cofense,189,5,9.174534759358323,phishing|october|2025|cybersecurity|threat,True
+https://www.phriendlyphishing.com/blog,Phishing Prevention & Security Blog - Phriendly Phishing,23,2,51.1489285714286,phishing|date|stay|privacy|latest,True
+https://inspiredelearning.com/blog/phishing-protection-checklist/,Phishing Protection Checklist - Preventing Phishing,10,1,35.94500000000002,march|2020|solution|working|19,True
+https://en.wikipedia.org/wiki/SD-WAN,SD-WAN - Wikipedia,3661,240,31.980216377676328,wan|sd|retrieved|network|edit,False
+https://www.cisco.com/site/us/en/learn/topics/networking/what-is-sd-wan.html,What Is SD-WAN? - Software-Defined WAN (SDWAN)  - Cisco,555,34,27.596831655942395,wan|sd|cloud|network|applications,False
+https://www.fortinet.com/resources/cyberglossary/sd-wan-explained,What is SD-WAN (Software-Defined WAN)? Benefits and Components | Fortinet,32,2,0.3708333333333655,wan|sd|watch|secure|management,True
+https://remotedesktop.google.com/,Chrome Remote Desktop,205,9,50.41897018970192,computer|remote|desktop|share|access,True
+https://support.apple.com/guide/remote-desktop/welcome/mac,Apple Remote Desktop User Guide for Mac - Apple Support,50,4,57.095500000000015,computers|files|computer|manage|control,True
+https://en.wikipedia.org/wiki/Remote_desktop_software,Remote desktop software - Wikipedia,2244,133,27.586658196134607,remote|desktop|software|computer|retrieved,False
+https://www.fortinet.com/solutions/enterprise-midsize-business/network-access/application-access,Zero Trust Network Access (ZTNA) to Control Application Access | Fortinet,56,4,42.85976190476194,ztna|access|watch|application|users,True
+https://www.microsoft.com/en-us/security/business/security-101/what-is-zero-trust-network-access-ztna,What Is Zero Trust Network Access (ZTNA)? | Microsoft Security,94,4,12.88250000000005,access|network|ztna|security|zero,True
+https://www.zscaler.com/resources/security-terms-glossary/what-is-zero-trust-network-access,Zero Trust Network Access (ZTNA) – Benefits & Overview | Zscaler,1715,107,29.006533053245303,ztna|access|network|vpns|users,False
+https://www.efax.com/,"Fax Online with eFax | Secure, Scalable, Enterprise Cloud Fax",1468,81,39.25117741130771,fax|efax|faxes|faxing|online,False
+https://sign.dropbox.com/products/dropbox-fax,Send and Receive Fax Online by Phone and Computers - Dropbox Fax,789,39,46.885716382853786,fax|dropbox|faxes|sign|send,False
+https://www.fax.plus/,Fax.Plus - Best Online Fax Service | Send Fax Online Securely,344,27,36.08651333549295,fax|faxes|faxing|send|online,True
+https://comfax.com/reviews/free-fax/,"Free Fax Review - Top 7 Choices Reviewed and Tested, 2025 Updated",5213,244,60.59554453856677,fax|free|faxes|faxing|send,False
+https://nytlicensing.com/latest/trends/content-marketing-best-practices-2022/,"
+            
+                16 Best Practices for Content Marketing in 2024 | NYTLicensing
+            
+        ",2914,156,43.54515910278786,content|marketing|audience|brand|industry,False
+https://copyblogger.com/content-marketing/,The Complete Content Marketing Guide For 2025 - Copyblogger,6290,293,49.19552317582071,content|marketing|audience|podcast|blog,False
+https://www.twilio.com/en-us/blog/insights/content-marketing-best-practices,40+ Content Marketing Best Practices in 2025 | Twilio,5740,354,51.813602490658326,content|marketing|best|practices|publish,False
+https://www.akkio.com/beginners-guide-to-machine-learning,The Complete Beginner's Guide to Machine Learning,21292,917,44.68515742963922,data|learning|machine|ai|models,False
+https://medium.com/@amitvsolutions/machine-learning-101-the-complete-beginners-guide-to-machine-learning-686a30cbcf6b,Machine Learning 101: The Complete Beginner’s Guide to Machine Learning | by Amit Verma | Medium,3190,139,38.14764452251677,learning|data|model|machine|supervised,False
+https://realpython.com/tutorials/data-science/,Python Data Science – Real Python,521,19,12.230953426557278,intermediate|science|data|python|2025,False
+https://www.geeksforgeeks.org/data-science/data-science-with-python-tutorial/,Data Science with Python Tutorial - GeeksforGeeks,488,11,-5.372942830365503,data|python|science|using|learning,True
+https://jakevdp.github.io/PythonDataScienceHandbook/,Python Data Science Handbook | Python Data Science Handbook,329,5,8.816490566037743,data|python|learning|resources|machine,True
+https://www.w3schools.com/datascience/,Data Science Tutorial,449,17,49.86135722679202,python|free|data|com|code,True
+https://aws.amazon.com/what-is/deep-learning/,What is Deep Learning? - Deep Learning AI Explained - AWS,2205,135,36.81302696053655,learning|deep|generative|ai|neural,False
+https://developers.google.com/search/docs/fundamentals/seo-starter-guide,SEO Starter Guide: The Basics | Google Search Central  |  Documentation  |  Google for Developers,4115,171,54.41522537692927,search|site|google|content|pages,False
+https://digitalmarketinginstitute.com/blog/what-is-seo,What Is SEO and How Does it Work? | Digital Marketing Institute,243,10,24.878203862660968,marketing|search|digital|seo|content,True
+https://www.coursera.org/articles/content-strategy,How to Develop a Content Strategy: Step-by-Step Guide | Coursera,1566,72,45.310854633496405,content|audience|strategy|goals|target,False
+https://www.youtube.com/creators/how-things-work/content-creation-strategy/,"
+      Video Content Creation Strategy, Tips & Tools - YouTube Creators
+    ",855,40,56.6307807170904,channel|tips|youtube|videos|analytics,False
+https://digitalmarketinginstitute.com/blog/what-are-the-most-effective-digital-marketing-strategies,What Are the Most Effective Digital Marketing Strategies? | Digital Marketing Institute,125,5,11.899068965517245,strategy|digital|marketing|search|articles,True
+https://emotive.io/blog/11-essential-digital-marketing-tips,11 Essential Digital Marketing Tips | Emotive,25,1,35.94800000000001,train|automation|hand|team|want,True
+https://www.forbes.com/advisor/business/what-is-digital-marketing/,"What Is Digital Marketing? Types, Strategies & Best Practices – Forbes Advisor",2597,131,38.55304677206851,marketing|digital|email|seo|social,False
+https://blog.hubspot.com/marketing/what-is-digital-marketing,Digital Marketing: Everything You Need to Know to Get It Right ,11,2,41.60424242424244,marketing|28|traditional|digital|2025,True
+https://mailchimp.com/marketing-glossary/content-marketing/,What is Content Marketing and does it still work in 2025? | Mailchimp,2406,137,47.51981288918447,content|marketing|audience|stage|media,False
+https://sproutsocial.com/insights/social-media-marketing-strategy/,How to Build Your Social Media Marketing Strategy | Sprout Social,10386,457,37.111621301139,social|media|marketing|sprout|strategy,False
+https://www.shopify.com/blog/ecommerce-seo-beginners-guide,The Industry Leading Ecommerce SEO Guide (2025) - Shopify,5096,284,54.75560689907323,ecommerce|seo|keyword|keywords|google,False
+https://www.woot.com/,Woot,162,15,57.80713040563191,woot|prime|com|deals|amazon,True
+https://www.shopmissa.com/?srsltid=AfmBOoqr-F6zzKR-vGPqksAZp1wW4niXlINdN2eAREiMVNtHez_0-gAB,"
+    The Original $1 Dollar Makeup, Cosmetics and Beauty Online Shop – Shop Miss A
+  ",1614,1,86.18206952613966,left|aoa|quick|buy|right,False
+https://martie.com/?srsltid=AfmBOoqTEC0QXQ3xYEvV1VWP6OX6EZboYFZDuiiilhyLfDJNbuXIZ97r,"
+      Martie.com | Save up to 80% on your favorite brands!
+      
+      
+      
+    ",5197,17,101.18498897658112,cart|add|oz|99|shop,False
+https://www.dealsofamerica.com/,"Deals, Coupon Codes, Bargains & US Deals - Deals of America",1996,37,59.369586428161455,info|view|size|oz|deals,False
+https://www.dealnews.com/,"DealNews: Best Daily Deals, Discounts & Sales",3878,127,54.44370716009658,amazon|ago|deals|hrs|popularity,False
+https://viewyourdeal.com/,View Your Deal,551,30,86.17342011834322,retail|deal|shipping|shop|50,False
+https://americasstealsanddeals.com/,Americas Steals & Deals | Online Steals & Deals Today,911,82,78.88878345864664,99|00|retail|deal|shop,False
+https://www.pricegrabber.com/,Check online store ratings and save money with deals at PriceGrabber.com,65,6,66.986858974359,deals|2017|items|hand|legal,True
+https://www.wikihow.com/Make-Money-Online,4 Ways to Make Money Online - wikiHow,294,18,56.34235854140471,online|article|2017|2019|paid,True
+https://en.wikipedia.org/wiki/Search_engine_optimization,Search engine optimization - Wikipedia,6554,498,51.76903080459908,search|google|retrieved|archived|2007,False
+https://simple.wikipedia.org/wiki/Search_engine_optimization,"Search engine optimization - Simple English Wikipedia, the free encyclopedia",1258,83,42.29378342285887,seo|search|change|hat|engine,False
+https://en.wikipedia.org/wiki/Content_marketing,Content marketing - Wikipedia,3628,246,38.81233515190601,marketing|content|retrieved|2016|brand,False
+https://simple.wikipedia.org/wiki/Content_marketing,"Content marketing - Simple English Wikipedia, the free encyclopedia",455,25,34.31608695652176,change|marketing|content|source|retrieved,True
+https://en.wikipedia.org/wiki/Machine_learning,Machine learning - Wikipedia,18773,1351,30.68587377490718,learning|machine|archived|retrieved|data,False
+https://simple.wikipedia.org/wiki/Machine_learning,"Machine learning - Simple English Wikipedia, the free encyclopedia",1776,72,-0.993723968193848,learning|machine|neural|network|computing,False
+https://en.wikipedia.org/wiki/Artificial_intelligence,Artificial intelligence - Wikipedia,37146,2982,42.08838809090869,ai|archived|retrieved|2023|2024,False
+https://simple.wikipedia.org/wiki/Artificial_intelligence,"Artificial intelligence - Simple English Wikipedia, the free encyclopedia",3512,146,12.855300946417517,intelligence|artificial|ai|change|neural,False
+https://en.wikipedia.org/wiki/Digital_marketing,Digital marketing - Wikipedia,11368,853,35.72704411736916,marketing|digital|advertising|brand|archived,False
+https://simple.wikipedia.org/wiki/Digital_marketing,"Digital marketing - Simple English Wikipedia, the free encyclopedia",338,14,22.39366310160429,marketing|change|digital|channels|source,True
+https://www.theguardian.com/technology/artificialintelligenceai,Artificial intelligence (AI) | The Guardian,362,5,59.68571785051071,oct|2025|ai|28|29,True
+https://apnews.com/hub/artificial-intelligence,Artificial intelligence | AP News,537,6,-18.804301675977623,ai|openai|microsoft|google|company,False
+https://abcnews.go.com/alerts/technology,Technology News News & Videos - ABC News,2081,60,39.76118685419061,ago|months|october|2025|new,False

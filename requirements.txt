@@ -1,0 +1,11 @@
+streamlit
+pandas
+scikit-learn
+nltk
+textstat
+sentence-transformers
+requests
+beautifulsoup4
+joblib
+
+print("File 'streamlit_app/requirements.txt' written.")
