@@ -3,6 +3,12 @@ import json
 from utils.parser import scrape_and_parse
 from utils.features import extract_features
 from utils.scorer import predict_quality, check_for_duplicates
+import nltk
+
+# Download necessary tokenizer models at runtime
+nltk.download('punkt')
+nltk.download('punkt_tab', quiet=True)  # fix for newer NLTK versions
+
 
 # --- 1. App Title and Description ---
 st.set_page_config(page_title="SEO Content Analyzer", layout="wide")
